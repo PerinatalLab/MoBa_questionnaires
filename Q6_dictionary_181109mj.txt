@@ -1,0 +1,171 @@
+# DICTIONARY FOR Q6 variables
+# all variable names start with "GG" (Q6 qustionnaire)
+# "question-class" corresponds the block of questions in the questionnaire, same numbering.
+# "question-class" explanation is in separate file "Q6_dicionary_qclass_181109myk.txt"
+# 2018-11-09 Mykolas J.
+#
+# variable-suffix	question-class	explanation
+#
+varSfx	Qclss	explanation
+222	17	kicks ball not holding for support
+223	17	catches large ball with both hands
+224	17	holds pencil like adult
+225	17	undoes one or more buttons
+226	18	language skills
+227	19	points towards the toy (>1 m away) when asked
+228	19	turns head direction u ask to look
+229	19	shows toys by looking at you and holding the toy towards you
+230	19	uses sounds/words with gestures
+231	20	shares readily with other children
+232	20	helpful if someone is hurt, upset or ill
+233	20	considerate of other peoples feelings
+234	20	kind to younger children
+235	20	volunteers to help others
+236	20	pays attention when you teach something new
+237	21	points (not showing him first) correct picture when asked
+238	21	points correctly at least seven parts of the body 
+239	21	uses sentences made up of 3-4 words
+240	21	Without pointing help carries out directions correctly
+241	21	tells what is happening in the picture when looking at it
+242	21	tells >1 thing about a familiar object
+243	22	respond to his/her name when called
+244	22	bring objects over to you to show something
+245	22	imitates you
+246	22	uses index finger to point something
+247	22	takes interest in other children
+248	22	looks at toy accross room when you point
+249	22	easy to make eye contact with child
+250	22	react when spoken to
+251	22	seem oversensitive to noise (plugs ears)
+252	22	chooses very small number of particular toys
+253	22	waves to people to greet or say goodbye
+254	22	child hurts himself not seeming bothered (high pain threshold)
+255	23	talk using short phrases or sentences
+257	23	to-and-fro conversation (building on what you have said)
+258	23	uses odd phrases or repeats over and over again in almost same way
+259	23	use socially inappropriate questions or statements
+260	23	get his/her pronouns mixed up
+261	23	use invented or made up words (odd metaphorical language)
+262	23	repeats same thing exactly same way (or insists u do it)
+263	23	have things/rituals he/she does in very particular order
+264	24	facial expression usually seem appropriate to situation
+265	24	use your hand like a tool or as his part of body
+266	24	has interests to preoccupy him and seem odd to others
+267	24	seems more interested in parts of object rather than using object
+268	24	has special interests (unusual intensity, but appropriate for age)
+269	24	seem unusually interested in sight/feel/sound/taste of things or people
+270	24	has mannerisms/odd ways of moving hands or fingers
+271	24	has complicated movements of whole body
+272	24	injures himself deliberately (biting or banging)
+273	24	has objects that he carries around
+274	25	has particular friends/best friend
+256	25	talks w you just to be friendly, not wants any
+275	25	Spont. copies you or what you do eg. vacuum
+276	25	spont. points at things around just to show things, not wants any
+277	25	uses gestures, other than pointing/pulling ur hand, to say what he wants
+278	25	nods head to indicate yes
+279	25	shakes head to indicate no
+280	25	usually looks directly in face when talking with you
+281	25	smiles back if someone smiles at him
+282	25	shows things of interest to engage your attention
+283	25	offers to share things other than food w u
+284	25	wants you to join his enjoyment of something
+285	25	tries comforting you when you are sad or hurt
+286	25	looks at you and use gestures/sound when wants something
+287	25	shows normal range of facial exprns
+288	25	spont. joins in and copies actions in social games
+289	25	plays pretend or make-believe games
+290	25	seems interested in unfamiliar children of aprx same age 
+291	25	responds positively when another child approaches him
+292	25	knows and responds to u talk to him, even if u dont call his name
+293	25	plays imaginative games with others, but knows who is pretending 
+294	25	plays cooperatively in games eg. ball games
+295	26	lost any language skills
+296	26	lost any social skills
+297	26	turned out to be less sociable
+298	26	lost motor skills
+299	27	cries easily
+300	27	always on the go
+301	27	prefers playing with others rather than alone
+302	27	off and running as soon as wakes up
+303	27	very sociable
+304	27	takes a long time to warm up to strangers
+305	27	gets upset or sad easily
+306	27	prefers quiet, inactive games to more active ones
+307	27	likes to be with people
+308	27	reacts intensely when upset
+309	27	very friendly with strangers
+310	27	finds other people more fun than anything else
+311	27	complains that certain garments are too tight
+312	27	distressed by having his/her face or hair washed
+313	28	Afraid to try new things
+314	28	Cant concentrate, cant pay attention for long
+315	28	restless or hyperactive
+316	28	Cant stand waiting, wants everything now
+317	28	Clings to adults or too dependent
+318	28	Constipated
+319	28	Defiant
+320	28	Demands must be met immediately
+321	28	Disturbed by any change in routine
+322	28	Doesnt want to sleep alone
+323	28	Doesnt eat well
+324	28	Doesnt seem to feel guilty after misbehaving
+325	28	Eats or drinks things that are not food
+326	28	Gets in many fights
+327	28	Gets into everything
+328	28	Gets too upset when separated from parents
+329	28	Hits others
+330	28	Poorly coordinated or clumsy
+331	28	Punishment doesnt change behaviour
+332	28	Quickly shifts from one activity to another
+333	28	Resists going to bed at night
+334	28	Stomach aches or cramps (no medical cause)
+335	28	Sudden changes in moods or feelings
+336	28	Too fearful or anxious
+337	28	Vomiting, throwing up (no medical cause)
+338	28	Doesnt seem to be happy eating food
+339	29	Becomes distracted by outside stimuli
+340	29	Finds it difficult waiting his turn
+341	29	Has problems keeping focused on tasks
+342	29	Is excessively talkative
+343	29	Doesnt differentiate between adults, behaves same way to all
+344	29	Will wander after other adults, even strangers
+345	29	Doesnt seem to listen when being spoken to
+346	29	Has habit of rolling head around or humming
+347	29	Mood vary greatly from day to day
+348	29	Is extremely passive, needs help to get going
+349	29	Tests other children to see if they get angry
+350	29	aggressive when frustrated
+351	29	body is affected by difficult to control twitches
+352	29	Hits, kicks and bites other children
+353	29	very anxious about getting dirty
+354	29	Wants things to be clean and tidy
+355	29	Places objects in certain order over and over again
+356	29	Wakes up at night and needs help to sleep
+357	29	distressed when u leave and someone familiar looks after
+358	29	does things he is not allowed to get attention
+359	29	seems to have less fun than others
+360	29	extremely noisy, screams a lot
+361	29	disobedient or defiant
+362	29	comes over when somethingmakes him afraid/anxious
+363	29	Runs off when you are outside
+364	29	Seems to have less energy
+365	29	Is very fussy with food
+366	29	Seems to be unhappy sad or depressed
+367	29	Wakes up several times during night
+368	30	eats too many sweets
+369	30	eats too many high-fat foods
+370	30	eats too much of fav food
+371	30	some foods are kept out of reach
+372	30	sweet things are offered as a reward
+373	30	fav foods offered for good behaviour
+374	30	without regulation would eat too many junk food
+375	30	without regulation would eat too much fav foods
+376	30	should always eat all food on plate
+377	30	special attention to make sure child eats enough
+378	30	If child not hungry I try to get eat anyway
+379	30	If not me, child would eat much less
+380	31	concerned: child is difficult to cope with
+381	31	concerned: childs hearing could be impaired
+382	31	concerned: othersexpressed concerns about childs development
+594	31	concerned: child is hardly interested in playing with others

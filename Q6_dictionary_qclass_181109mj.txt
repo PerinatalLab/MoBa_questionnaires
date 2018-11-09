@@ -1,0 +1,20 @@
+# Explanation of question classes for table 'q6_outcome_dictionary_181109myk.txt'
+# 2018-11-09 Mykolas J
+# "question-class" corresponds the block of questions in the questionnaire, same numbering
+#
+Qclss	Qclss explanation
+17	motor development
+18	language skills
+19	body language
+20	social skills
+21	understanding what others say, ablility to communicate
+22	body language and other ways of communicating with others
+23	talking with others
+24	behaviour and specific that children do
+25	social development and interest in others
+26	Loss of skills
+27	behaviour during the last two months
+28	behaviour and manner statements true dur last two months
+29	behaviour and manner statements true dur last two months
+30	eating habits and appetite and your attitude to it
+31	your concerns
